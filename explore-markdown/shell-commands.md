@@ -67,3 +67,5 @@ If you'd like to add some color-coded configurations, follow the next few steps.
 ```git remote add <name> <url of repo>``` | Links a local repo to a remote repo by adding a remote repo
 ```git remote remove <name>``` | Unlinks or deltes a local repo from a remote repo
  ```git pull <remote-name> <remote-branch main>``` | Fetches any existing updates from a remote repo and merges them into an existing local repo
+```git reset <name>``` | Remove documents from staging area
+```git branch -M main``` | Creates a branch named main
